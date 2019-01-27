@@ -152,7 +152,7 @@
 
 }
 
-@media screen and (min-width: 50px) and (max-width:320px){
+@media screen and (min-width: 50px) and (max-width:319px){
     /* NAVBAR */
     .row {
         text-align: center;

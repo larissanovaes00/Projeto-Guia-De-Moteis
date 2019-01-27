@@ -216,7 +216,7 @@
     }
 }
 
-@media screen and (min-width: 50px) and (max-width:320px){   
+@media screen and (min-width: 50px) and (max-width:319px){   
     #blocos{
         background-color: #323232;
         margin-right: 5%;

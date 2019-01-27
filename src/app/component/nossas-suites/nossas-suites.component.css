@@ -419,7 +419,7 @@ display:none;
 /* FIM - SECTION NOSSAS SUÍTES */
 }
 
-@media screen and (min-width: 50px) and (max-width:320px){
+@media screen and (min-width: 50px) and (max-width:319px){
 /* SECTION NOSSAS SUÍTES */
 .texto-e-botao {
     position: absolute;

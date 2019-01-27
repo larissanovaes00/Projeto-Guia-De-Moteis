@@ -160,7 +160,7 @@ ol.carousel-indicators{
 /* FIM - BANNER */
 }
 
-@media screen and (min-width: 50px) and (max-width:320px){
+@media screen and (min-width: 50px) and (max-width:319px){
     /* BANNER */
     .carousel.slide{
         width: 100%;
