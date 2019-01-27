@@ -1,0 +1,296 @@
+@media screen and (min-width: 1201px) and (max-width: 1600px){
+/* FOOTER */
+#row-footer{
+    background-color: black;
+    text-align: left;
+    margin-top: -20%;
+}
+
+#li-footer{
+    color: white;
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 1.4rem;
+}
+
+#blocos-menores-footer{
+    display: inline-flex;
+    width: 21%;
+}
+
+#blocos-footer{
+    margin-left: 18%;
+    margin-top: 22%;
+    margin-bottom: 4%;
+}
+
+.p-rodape{
+    text-align: center;
+    font-family: lato, bold;
+    margin: 2%;
+    color: black;
+}
+
+#footer-mobile{
+    display: none;
+}
+/* FIM - FOOTER */
+}
+
+@media screen and (min-width: 1025px) and (max-width:1200px){
+
+    #row-footer{
+        background-color: black;
+        text-align: left;
+        margin-top: -20%;
+        width: 100%;
+    }
+
+    #li-footer{
+        color: white;
+        font-family: lato, medium;
+        font-size: 1.4rem;
+    }
+
+    #blocos-menores-footer{
+        display: inline-flex;
+        width: 24%;
+    }
+
+    #blocos-footer{
+        margin-left: 6%;
+        margin-top: 22%;
+        margin-bottom: 6%;
+    }
+
+    #footer-mobile{
+        display: none;
+    }
+
+    .p-rodape{
+        text-align: center;
+        font-family: lato, bold;
+        margin: 2%;
+        color: black;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width:1024px){
+
+    #row-footer{
+        background-color: black;
+        text-align: left;
+        margin-top: -20%;
+    }
+
+    #img-mapa-desktop{
+        width: 100%;
+    }
+
+    #footer-mobile{
+        display: none;
+    }
+
+    #li-footer{
+        color: white;
+        font-family: arial;
+        font-size: 1.4rem;
+    }
+
+    #blocos-menores-footer{
+        display: inline-flex;
+        width: 20%;
+    }
+
+    #blocos-footer{
+        margin-left: 6%;
+        margin-top: 22%;
+        margin-bottom: 6%;
+    }
+
+    .p-rodape{
+        text-align: center;
+        font-family: lato, bold;
+        margin: 2%;
+        color: black;
+    }
+
+}
+
+@media screen and (min-width: 426px) and (max-width:768px){
+/* FOOTER */
+#row-footer{
+    display: none;
+}
+
+.row-rodape{
+    display: none;
+}
+
+#footer-mobile{
+    background-color: black;
+    margin-top: -12%;
+    width: 100%;
+}
+
+#img-mapa-mobile{
+    margin: -5% 0 9% 3%;
+    width: 94%;
+}
+
+#blocos-uber{
+    width: 70%;
+    display: inline-flex;
+    margin: -6% 4% 3% 21%;
+    position: relative;
+}
+
+.div-va-de-uber{
+    background-color:#22ACBE;
+    padding: 3% 5% 2% 5%;
+}
+
+p#p-va-de-uber{
+    margin: 0 0 0 !important;
+}
+
+#p-va-de-uber{
+    font-size: 2.5rem;
+    color: white;
+    font-family: lato, bold;
+}
+
+#img-uber{
+    width: 139%;
+}
+
+
+.p-rodape{
+    text-align: center;
+    font-family: arial;
+    margin: 2%;
+    color: white;
+    font-size: 1.7rem;
+}
+
+#botoes-footer{
+    margin: -3% 4% 5% 19%;
+}
+/* FIM - FOOTER */
+
+}
+
+@media screen and (min-width: 320px) and (max-width:425px){
+/* FOOTER */
+#row-footer{
+    display: none;
+}
+
+.row-rodape{
+    display: none;
+}
+
+#footer-mobile{
+    background-color: black;
+    width: 100%;
+}
+
+#img-mapa-mobile{
+    margin: -5% 0 5% 4%;
+    width: 92%;
+}
+
+#blocos-uber{
+    width: 75%;
+    display: inline-flex;
+    margin: -3% 0 -1% 11%;
+    position: relative;
+}
+
+.div-va-de-uber{
+    background-color:#22ACBE;
+    padding: 5% 12% 0% 11%;
+}
+
+#p-va-de-uber{
+    font-size: 1.7rem;
+    color: white;
+    font-family: lato, bold;
+}
+
+#img-uber{
+    width: 111%;
+}
+
+.p-rodape{
+    text-align: center;
+    font-family: arial;
+    color: white;
+    font-size: 1.3rem;
+    margin-bottom: 10%;
+}
+
+#botoes-footer{
+    width: 70%;
+    margin: 2% 16% 2%;
+}
+/* FIM - FOOTER */
+}
+
+@media screen and (min-width: 50px) and (max-width:320px){
+/* FOOTER */
+#row-footer{
+    display: none;
+}
+
+.row-rodape{
+    display: none;
+}
+
+#footer-mobile{
+    background-color: black;
+    width: 100%;
+}
+
+#img-mapa-mobile{
+    margin: -5% 0 5% 4%;
+    width: 92%;
+}
+
+#blocos-uber{
+    width: 75%;
+    display: inline-flex;
+    margin: -3% 0 -1% 11%;
+    position: relative;
+}
+
+.div-va-de-uber{
+    background-color:#22ACBE;
+    padding: 5% 12% 0% 11%;
+}
+
+
+#p-va-de-uber{
+    font-size: 1.7rem;
+    color: white;
+    font-family: lato, bold;
+}
+
+#img-uber{
+    width: 111%;
+}
+
+
+.p-rodape{
+    text-align: center;
+    font-family: arial;
+    color: white;
+    font-size: 1.3rem;
+    margin-bottom: 10%;
+}
+
+#botoes-footer{
+    width: 70%;
+    margin: 2% 16% 2%;
+}
+/* FIM - FOOTER */
+}

@@ -1,0 +1,200 @@
+@media screen and (min-width: 1201px) and (max-width: 1600px){
+/* BANNER */
+    #img-banner{
+        opacity: 0.6;
+        width: 100%;
+    }
+
+    #img-banner-mobile{
+        display: none;
+    }
+
+    #descontos-e-cortesias{
+        width: 41%;
+        font-size: 3.42rem;
+        font-family: lato, bold;
+        margin: 0 auto;
+    }
+
+    ol.carousel-indicators{
+        top:79%;
+    }
+
+    .carousel-caption{
+        top: 26%;
+    }
+    /* FIM - BANNER */
+}
+
+@media screen and (min-width: 1025px) and (max-width:1200px){
+    /* BANNER */
+    #img-banner{
+        opacity: 0.6;
+    }
+
+    #img-banner-mobile{
+        display: none;
+    }
+
+    #descontos-e-cortesias{
+        width: 41%;
+        font-size: 3.42rem;
+        font-family: lato, bold;
+        margin: 0 auto;
+    }
+
+    ol.carousel-indicators{
+        top:79%;
+    }
+
+    .carousel-caption{
+        top: 26%;
+    }
+    /* FIM - BANNER */
+
+}
+
+@media screen and (min-width: 769px) and (max-width:1024px){
+    /* BANNER */
+    #img-banner{
+        opacity: 0.6;
+    }
+
+    #img-banner-mobile{
+        display: none;
+    }
+
+    #descontos-e-cortesias{
+        width: 41%;
+        font-size: 3.42rem;
+        font-family: lato, bold;
+        margin: 0 auto;
+    }
+
+    ol.carousel-indicators{
+        top:79%;
+    }
+
+    .carousel-caption{
+        top: 26%;
+    }
+    /* FIM - BANNER */
+}
+
+@media screen and (min-width: 426px) and (max-width:768px){
+/* BANNER */
+
+.carousel.slide{
+    width: 100%;
+    margin: 0 auto;
+}
+
+#img-banner{
+    display:none;
+}
+
+#img-banner-mobile{
+    width: 100%;
+    opacity: 0.6;
+}
+
+#div-banner{
+    width: 104%;
+}
+
+#descontos-e-cortesias{
+    width: 63%;
+    font-size: 4.5rem;
+    font-family: lato, bold;
+    margin: 0 auto;
+    line-height: 89%;
+}
+
+ol.carousel-indicators{
+    margin: 0% 0% 13% -34%;
+}
+
+.carousel-caption{
+    top: 37%;
+    margin: 0% 0% 0% -3%;
+}
+/* FIM - BANNER */
+}
+
+@media screen and (min-width: 320px) and (max-width:425px){
+    /* BANNER */
+    .carousel.slide{
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    #img-banner{
+        display:none;
+    }
+
+    #img-banner-mobile{
+        width: 100%;
+        opacity: 0.6;
+    }
+
+    #div-banner{
+        width: 100%;
+    }
+
+    #descontos-e-cortesias{
+        width: 80%;
+        font-size: 3.8rem;
+        font-family: lato, bold;
+        margin: 0 auto;
+        line-height: 89%;    
+    }
+
+    ol.carousel-indicators{
+        margin: 0% 0% 13% -30%;
+    }
+
+    .carousel-caption{
+        top: 37%;
+        margin: -7% -7% 0% -7%;
+    }
+/* FIM - BANNER */
+}
+
+@media screen and (min-width: 50px) and (max-width:320px){
+    /* BANNER */
+    .carousel.slide{
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    #img-banner{
+        display:none;
+    }
+
+    #img-banner-mobile{
+        width: 100%;
+        opacity: 0.6;
+    }
+
+    #div-banner{
+        width: 100%;
+    }
+
+    #descontos-e-cortesias{
+        width: 80%;
+        font-size: 3.8rem;
+        font-family: lato, bold;
+        margin: 0 auto;
+        line-height: 89%;    
+    }
+
+    ol.carousel-indicators{
+        margin: 0% 0% 13% -30%;
+    }
+
+    .carousel-caption{
+        top: 37%;
+        margin: -7% -7% 0% -7%;
+    }
+/* FIM - BANNER */
+}

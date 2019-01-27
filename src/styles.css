@@ -1,0 +1,577 @@
+@media screen and (min-width: 1201px) and (max-width: 1600px){
+/* CONFIG - BOTÕES */
+.botao {
+    background-color:transparent;
+    border:2px solid #fcfdff;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.3rem;;
+    padding: 1% 7%;
+    text-decoration:none;
+    text-align: center;
+    margin: 3%;
+}
+
+.botao:hover {
+    background-color:transparent;
+}
+
+.botao:active {
+    position:relative;
+    top:1px;
+}
+
+.btn-ver-todas-as-suites{
+    float: right;
+}
+
+#btn-saiba-mais{
+    background-color: white;
+    color: black;
+    font-size: 1rem;
+}
+
+.btn-black{
+    background-color: white;
+    color: black;
+    width:50%;
+}
+
+.btn-saiba-mais{
+    width: 50%
+}
+
+.btn-ver-todas-as-suites{
+    background-color:transparent;
+    border:2px solid black;
+    display:inline-block;
+    cursor:pointer;
+    color:black;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.2rem;;
+    padding: 1% 7%;
+    text-decoration:none;
+    text-align: center;
+    margin: 3%;
+    float: right;
+}
+/* FIM - CONFIG-BOTÕES */
+
+
+    .img-fachada-desktop{
+        width: 50%;
+    }
+
+    .img-fachada-menor{
+        display:none;
+    }
+
+    .img-fachada{
+        display: none;
+    }
+
+}
+
+@media screen and (min-width: 1025px) and (max-width:1200px){
+    /* BOTAO */
+    .botao {
+        background-color:transparent;
+        border:2px solid #fcfdff;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family: 'Lato', sans-serif;
+        font-size: 1rem;;
+        padding: 1% 7%;
+        text-decoration:none;
+        text-align: center;
+        margin: 3%;
+    }
+
+    .botao:hover {
+        background-color:transparent;
+    }
+
+    .botao:active {
+        position:relative;
+        top:1px;
+    }
+
+    .btn-ver-todas-as-suites{
+        float: right;
+    }
+
+    #btn-saiba-mais{
+        background-color: white;
+        color: black;
+        font-size: 1rem;
+    }
+
+    .btn-black{
+        background-color: white;
+        color: black;
+        width:50%;
+    }
+
+    .btn-saiba-mais{
+        width: 50%
+    }
+
+    .btn-ver-todas-as-suites{
+        background-color:transparent;
+        border:2px solid black;
+        display:inline-block;
+        cursor:pointer;
+        color:black;
+        font-family: 'Lato', sans-serif;
+        font-size: 1rem;;
+        padding: 1% 7%;
+        text-decoration:none;
+        text-align: center;
+        margin: 3%;
+        float: right;
+    }
+    /* FIM-BOTÃO */
+
+    .img-fachada{
+        display: none;
+    }
+    
+    .img-fachada-desktop{
+        float: right;
+        width: 50%;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width:1024px){
+    /* BOTAO */
+    .botao {
+        background-color:transparent;
+        border:2px solid #fcfdff;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family: 'Lato', sans-serif;
+        font-size: 1.6rem;;
+        padding: 1% 7%;
+        text-decoration:none;
+        text-align: center;
+        margin: 3%;
+    }
+
+    .botao:hover {
+        background-color:transparent;
+    }
+
+    .botao:active {
+        position:relative;
+        top:1px;
+    }
+
+    .btn-ver-todas-as-suites{
+        float: right;
+    }
+
+    #btn-saiba-mais{
+        background-color: white;
+        color: black;
+        font-size: 1rem;
+    }
+
+    .btn-black{
+        background-color: white;
+        color: black;
+        width:50%;
+        
+    }
+
+    #btn-central{
+        margin-left: 27%;
+    }
+
+    .btn-saiba-mais{
+        width: 50%
+    }
+
+    .btn-ver-todas-as-suites{
+        background-color: transparent;
+        border: 2px solid black;
+        display: inline-block;
+        cursor: pointer;
+        color: black;
+        font-family: 'Lato', sans-serif;
+        font-size: 1.6rem;
+        padding: 1% 7%;
+        text-decoration: none;
+        text-align: center;
+        float: right;
+        margin: 5% 2% 0% 0%;
+    }
+
+    .botao-ver-mais-black{
+        display: none;
+    }
+    /* FIM-BOTÃO */
+
+    .img-fachada{
+        width: 100%;
+    }
+    
+    .img-fachada-menor{
+        display: none;
+    }
+    
+    .col-fachada{
+        width: 118%;
+        margin-left: -9%;
+    }
+
+    .img-fachada-desktop{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 426px) and (max-width:768px){
+
+    /* CONFIG BOTÕES */
+    .botao {
+        background-color: transparent;
+        border: 2px solid #fcfdff;
+        display: inline-block;
+        cursor: pointer;
+        color: #ffffff;
+        font-family: 'Lato', sans-serif;
+        font-size: 1.7rem;
+        padding: 3% 19%;
+        text-decoration: none;
+        text-align: center;
+        margin: 3% 3% 6%;
+    }
+
+    .btn-nossas-suites{
+        display: none;
+    }    
+
+    .botao:hover {
+        background-color:transparent;
+    }
+
+    .botao:active {
+        position:relative;
+        top:1px;
+    }
+
+    .btn-ver-todas-as-suites{
+        float: right;
+    }
+
+    #btn-saiba-mais{
+        background-color: white;
+        color: black;
+        font-size: 1.7rem;
+    }
+
+    .btn-black{
+        background-color: white;
+        color: black;
+        width:75%;
+        margin: 3% 3% 6%;
+        padding: 4%;
+        font-size: 1.5rem;
+    }
+
+    .btn-saiba-mais{
+        width: 75%;
+        margin: 3% 3% 6%;
+        padding: 4%;
+        font-size: 1.7rem;
+    }
+
+    .btn-ver-todas-as-suites{
+        display: none;
+    }
+
+    .btn-ver-suite {
+        background-color: transparent;
+        border: 2px solid #fcfdff;
+        display: inline-block;
+        cursor: pointer;
+        color: #ffffff;
+        font-family: 'Lato', sans-serif;
+        font-size: 1.7rem;
+        padding: 5% 30%;
+        text-decoration: none;
+        text-align: center;
+        margin: 0% 0% 1%;
+    }
+
+    .btn-ver-mais{
+        background-color: black;
+        border: 2px solid black;
+        display: inline-block;
+        cursor: pointer;
+        color: #ffffff;
+        font-family: 'Lato', sans-serif;
+        font-size: 1.7rem;
+        padding: 3% 19%;
+        text-decoration: none;
+        text-align: center;
+        margin: 3% 2% 3%;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .btn-footer{
+        width: 78%;
+    }
+    /* FIM- CONFIG BOTÕES */
+
+    .img-fachada{
+        width: 100%;
+    }
+    
+    .img-fachada-menor{
+        display:none;
+    }
+
+    .img-fachada-menor{
+        display:none;
+    }
+
+    .img-fachada-desktop{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width:425px){
+
+    /* CONFIG BOTÕES */
+    .botao {
+        background-color: transparent;
+        border: 2px solid #fcfdff;
+        display: inline-block;
+        cursor: pointer;
+        color: #ffffff;
+        font-family: 'Lato', sans-serif;
+        font-size: 1.2rem;
+        padding: 3% 19%;
+        text-decoration: none;
+        text-align: center;
+        margin: 13% 6% 21%;
+    }
+
+    .btn-nossas-suites{
+        display: none;
+    }    
+
+    .botao:hover {
+        background-color:transparent;
+    }
+
+    .botao:active {
+        position:relative;
+        top:1px;
+    }
+
+    .btn-ver-todas-as-suites{
+        float: right;
+    }
+
+    #btn-saiba-mais{
+        background-color: white;
+        color: black;
+        font-size: 1.7rem;
+    }
+
+    .btn-black{
+        background-color: white;
+        color: black;
+        width: 61%;
+        margin: 7% 18% 5%;
+        padding: 4%;
+        font-size: 1rem;
+    }
+
+    .btn-saiba-mais{
+        width: 61%;
+        margin: 3% 3% 6%;
+        padding: 4%;
+        font-size: 1rem;
+    }
+
+    .btn-ver-todas-as-suites{
+        display: none;
+    }
+
+    .btn-ver-suite {
+        background-color: transparent;
+        border: 2px solid #fcfdff;
+        display: inline-block;
+        cursor: pointer;
+        color: #ffffff;
+        font-family: 'Lato', sans-serif;
+        font-size: 1.2rem;
+        padding: 4% 17%;
+        text-decoration: none;
+        text-align: center;
+        margin: 0% 0% 1%;
+    }
+
+    .btn-ver-mais{
+        background-color: black;
+        border: 2px solid black;
+        display: inline-block;
+        cursor: pointer;
+        color: #ffffff;
+        font-family: 'Lato', sans-serif;
+        font-size: 1.2rem;
+        padding: 3% 19%;
+        text-decoration: none;
+        text-align: center;
+        margin: 3% 2% 3%;
+    }
+
+    .botao-ver-mais-black{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .btn-footer{
+        background-color: white;
+        color: black;
+        width: 90%;
+        margin: 3% 3% 6%;
+        padding: 4%;
+        font-size: 1.6rem;
+    }
+    /* FIM- CONFIG BOTÕES */
+
+    .img-fachada{
+        display: none;
+    }
+    
+    .img-fachada-menor{
+        width:100%;
+    }
+    
+    .img-fachada-desktop{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 50px) and (max-width:320px){
+    /* CONFIG BOTÕES */
+    .botao {
+        background-color: transparent;
+        border: 2px solid #fcfdff;
+        display: inline-block;
+        cursor: pointer;
+        color: #ffffff;
+        font-family: 'Lato', sans-serif;
+        font-size: 1.2rem;
+        padding: 3% 19%;
+        text-decoration: none;
+        text-align: center;
+        margin: 13% 6% 21%;
+    }
+
+    .btn-nossas-suites{
+        display: none;
+    }    
+
+    .botao:hover {
+        background-color:transparent;
+    }
+
+    .botao:active {
+        position:relative;
+        top:1px;
+    }
+
+    .btn-ver-todas-as-suites{
+        float: right;
+    }
+
+    #btn-saiba-mais{
+        background-color: white;
+        color: black;
+        font-size: 1.7rem;
+    }
+
+    .btn-black{
+        background-color: white;
+        color: black;
+        width: 70%;
+        margin: 7% 14% 5%;
+        padding: 4%;
+        font-size: 1.2rem;
+    }
+
+    .btn-saiba-mais{
+        width: 90%;
+        margin: 3% 3% 6%;
+        padding: 4%;
+        font-size: 1.2rem;
+    }
+
+    .btn-ver-todas-as-suites{
+        display: none;
+    }
+
+    .btn-ver-suite {
+        background-color: transparent;
+        border: 2px solid #fcfdff;
+        display: inline-block;
+        cursor: pointer;
+        color: #ffffff;
+        font-family: 'Lato', sans-serif;
+        font-size: 1.2rem;
+        padding: 4% 17%;
+        text-decoration: none;
+        text-align: center;
+        margin: 0% 0% 1%;
+    }
+
+    .btn-ver-mais{
+        background-color: black;
+        border: 2px solid black;
+        display: inline-block;
+        cursor: pointer;
+        color: #ffffff;
+        font-family: 'Lato', sans-serif;
+        font-size: 1.2rem;
+        padding: 3% 19%;
+        text-decoration: none;
+        text-align: center;
+        margin: 3% 2% 3%;
+    }
+
+    .botao-ver-mais-black{
+        margin:0%;
+    }
+
+    .btn-footer{
+        background-color: white;
+        color: black;
+        width: 90%;
+        margin: 3% 3% 6%;
+        padding: 4%;
+        font-size: 1.6rem;
+    }
+    /* FIM- CONFIG BOTÕES */
+
+    .img-fachada{
+        display: none;
+    }
+    
+    .img-fachada-menor{
+        width:100%;
+    }
+    
+    .img-fachada-desktop{
+        display: none;
+    }
+
+}

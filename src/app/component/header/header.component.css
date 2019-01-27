@@ -1,0 +1,180 @@
+@media screen and (min-width: 1201px) and (max-width: 1600px){
+    /* NAVBAR */
+    .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    #fundo-logo-fb{
+        background-color: black;
+        float: right;
+        width: 8%;
+    }
+
+    #logo-fb{
+        padding: 33% 37%;
+    }
+
+    #img-logo{
+        padding: 7% 9%;
+    }
+
+    #itens-nav{
+        font-size: 1.2rem;
+        color: black; 
+        font-family: 'Lato', sans-serif;
+    }
+
+    #icones-nav{
+        margin-top: 2%;
+        padding-left: 17%;
+        text-align: left;
+    }
+/* FIM - NAVBAR */
+}
+
+@media screen and (min-width: 1025px) and (max-width:1200px){
+    /* NAVBAR */
+    .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    #fundo-logo-fb{
+        background-color: black;
+        float: right;
+        width: 8%;
+    }
+
+    #logo-fb{
+        padding: 33% 37%;
+    }
+
+    #img-logo{
+        margin-top: 10%;
+    }
+
+    #itens-nav{
+        font-size: 1.2rem;
+        color: black; 
+        font-family: 'Lato', sans-serif;
+    }
+
+    #icones-nav{
+        margin-top: 2%;
+        padding-left: 7%;
+        text-align: left;
+    }
+    /* FIM - NAVBAR */
+}
+
+@media screen and (min-width: 769px) and (max-width:1024px){
+    /* NAVBAR */
+    .row {
+        margin-right: 0;
+        margin-left: 0;
+    }
+
+    #fundo-logo-fb{
+        display: none;
+    }
+
+    #logo-fb{
+        padding: 33% 37%;
+    }
+
+    #img-logo{
+        margin: 3% 38% 3%;
+    }
+
+    #itens-nav{
+        font-size: 1.2rem;
+        color: black; 
+        font-family: 'Lato', sans-serif;
+    }
+
+    #icones-nav{
+        margin: 1% 8%;
+    }
+
+    .col-md-2.col-md-offset-1{
+        margin: 0 auto;
+    }
+    /* FIM - NAVBAR */
+}
+
+@media screen and (min-width: 426px) and (max-width:768px){
+    /* NAVBAR */
+    .row {
+        text-align: center;
+    }
+
+    #fundo-logo-fb{
+        display: none;
+    }
+
+    #img-logo{
+        width: 42%;
+        margin: 1% 0% 2% 29%;
+    }
+
+    #icones-nav{
+        display: none;
+    }
+    /* FIM - NAVBAR */
+
+}
+
+@media screen and (min-width: 320px) and (max-width:425px){
+    /* NAVBAR */
+    .row {
+        text-align: center;
+        margin: 3%;
+    }
+
+    .col-md-14{
+        margin: 5%;
+    }
+
+    #fundo-logo-fb{
+        display: none;
+    }
+
+    #img-logo{
+        margin: 2% 9% 1% 17%;
+        width: 60%;
+    }
+
+    #icones-nav{
+        display: none;
+    }
+    /* FIM - NAVBAR */
+
+}
+
+@media screen and (min-width: 50px) and (max-width:320px){
+    /* NAVBAR */
+    .row {
+        text-align: center;
+        margin: 3%;
+    }
+
+    .col-md-14{
+        margin: 5%;
+    }
+
+    #fundo-logo-fb{
+        display: none;
+    }
+
+    #img-logo{
+        width: 75%;
+    }
+
+    #icones-nav{
+        display: none;
+    }
+    /* FIM - NAVBAR */
+
+}
+

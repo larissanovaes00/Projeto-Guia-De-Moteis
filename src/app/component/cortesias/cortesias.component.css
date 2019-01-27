@@ -1,0 +1,544 @@
+@media screen and (min-width: 1201px) and (max-width: 1600px){
+/* CORTESIAS */
+.h3-cortesias{
+    font-size: 3rem;
+    font-family: lato, bold;
+    color: black;
+}
+
+.paragrafo-cortesias{
+    font-size: 1.4rem;
+    font-family: lato, medium;
+    color: black;
+}
+
+.h4-cafe-da-manha{
+    color: black;
+    font-size: 2.5rem;
+    font-family: lato, bold;
+    text-align: center;
+    margin: 1%;
+}
+
+.p-cortesia{
+    font-size: 1rem;
+    font-family: lato, bold;
+    color: #d9241b;
+    text-align: center;
+}
+
+.p-cafe-da-manha{
+    font-size: 1.3rem;
+    font-family: lato, bold;
+    color: black;
+    text-align: center
+}
+
+.bloco-cafe-da-manha{
+    width: 32%;
+    background-color: #e7e9ea;
+    padding: 3% 5%;
+    float: left;
+    margin-right: 1.3%;
+}
+
+.row-cortesias{
+    margin-top: 3%;
+    margin-bottom: 1%;
+}
+/* FIM - CORTESIAS */
+
+
+.botao-ver-mais-black{
+display: none;
+}
+
+.logos-facebook-instagram{
+display: none;
+}
+
+
+/* ROW NEXX CLUB */
+.row-nexx-club{
+    display: inline-flex;
+    margin: 6% 0% 3% 27%;
+}
+
+#img-nexx-club{
+    margin-top: -9%;
+}
+
+#p-nexx-club{
+    font-size: 1.6rem;
+    font-family: lato, bold;
+    color: black;
+    text-align: center;
+}
+/* FIM ROW NEXX-CLUB */
+
+
+/* MAPA */
+.row-mapa{
+    margin-top: 2%;
+}
+
+#img-mapa-desktop{
+    width: 100%;
+}
+/* FIM - MAPA */
+}
+
+@media screen and (min-width: 1025px) and (max-width:1200px){
+    /* CORTESIAS */
+    .h3-cortesias{
+        font-size: 3rem;
+        font-family: lato, bold;
+        color: black;
+    }
+
+    .paragrafo-cortesias{
+        font-size: 1.4rem;
+        font-family: lato, medium;
+        color: black;
+    }
+
+    .h4-cafe-da-manha{
+        color: black;
+        font-size: 2.5rem;
+        font-family: lato, bold;
+        text-align: center;
+        margin: 1%;
+    }
+
+    .p-cortesia{
+        font-size: 1rem;
+        font-family: lato, bold;
+        color: #d9241b;
+        text-align: center;
+    }
+
+    .p-cafe-da-manha{
+        font-size: 1.3rem;
+        font-family: lato, bold;
+        color: black;
+        text-align: center
+    }
+
+    .bloco-cafe-da-manha{
+        width: 32%;
+        background-color: #e7e9ea;
+        padding: 3% 5%;
+        float: left;
+        margin-right: 1.3%;
+    }
+
+    .row-cortesias{
+        margin-top: 3%;
+        margin-bottom: 3%;
+    }
+
+    .row-nexx-club{
+        display: inline-flex;
+        margin: 7% 0% 4% 21%;
+    }
+
+    #img-nexx-club{
+        margin-top: -9%;
+    }
+
+    #p-nexx-club{
+        font-size: 1.6rem;
+        font-family: lato, bold;
+        color: black;
+        text-align: center;
+    }
+
+    .row.botao-ver-mais-black{
+        display: none;
+    }
+
+    #img-mapa-desktop{
+        width: 94%;
+        margin-left: 3%;
+    }
+
+    .row-mapa{
+        margin-top: 2%;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width:1024px){
+        /* CORTESIAS */
+        .h3-cortesias{
+            font-size: 3rem;
+            font-family: lato, bold;
+            color: black;
+        }
+
+        .paragrafo-cortesias{
+            font-size: 1.6rem;
+            font-family: lato, medium;
+            color: black;
+        }
+
+        .h4-cafe-da-manha{
+            color: black;
+            font-size: 2.5rem;
+            font-family: lato, bold;
+            text-align: center;
+            margin: 1%;
+        }
+
+        .p-cortesia{
+            font-size: 1.4rem;
+            font-family: lato, bold;
+            color: #d9241b;
+            text-align: center;
+        }
+
+        .row.row-cortesias {
+            margin: 4% 0% 0% 4%;
+        }
+
+
+        .p-cafe-da-manha{
+            font-size: 1.6rem;
+            font-family: lato, bold;
+            color: black;
+            text-align: center
+        }
+
+        .bloco-cafe-da-manha{
+            width: 32%;
+            background-color: #e7e9ea;
+            padding: 3% 3%;
+            float: left;
+            margin-right: 1.3%;
+        }
+
+        .row-cafe-da-manha{
+            margin-top: 6.5%;
+            margin-bottom: 7%;
+            width: 105%;
+        }
+
+        .img-fachada-desktop{
+            display: none;
+        }
+
+        .logos-facebook-instagram{
+            display: none;
+        }
+
+        .row-nexx-club{
+            display: inline-flex;
+            margin: 2% 21% 4%;
+        }
+
+        #img-nexx-club{
+            margin-top: -9%;
+        }
+
+        #p-nexx-club{
+            font-size: 1.6rem;
+            font-family: lato, bold;
+            color: black;
+            text-align: center;
+        }
+
+        .row-mapa{
+            margin-top: 2%;
+        }
+
+        #row-footer{
+            background-color: black;
+            text-align: left;
+            margin-top: -20%;
+        }
+
+        #img-mapa-desktop{
+            width: 100%;
+        }
+}
+
+@media screen and (min-width: 426px) and (max-width:768px){
+/* CORTESIAS */
+.cortesias{
+    width: 85%;
+    position: relative;
+    margin-top: 10%;
+}
+
+.h3-cortesias{
+    font-size: 3.5rem;
+    font-family: lato, bold;
+    color: black;
+    text-align: center;
+    margin-bottom: 6%;
+}
+
+.paragrafo-cortesias{
+    display: none;
+}
+
+.h4-cafe-da-manha{
+    color: black;
+    font-size: 2.5rem;
+    font-family: lato, bold;
+    text-align: center;
+    margin: 1%;
+}
+
+.p-cortesia{
+    font-size: 1.7rem;
+    font-family: lato, bold;
+    color: #d9241b;
+    text-align: center;
+}
+
+.p-cafe-da-manha{
+    font-size: 1.7rem;
+    font-family: lato, bold;
+    color: black;
+    text-align: center
+}
+
+.bloco-cafe-da-manha{
+    width: 100%;
+    background-color: #e7e9ea;
+    padding: 8% 22%;
+    margin-bottom: 6%;
+}
+
+.row-cortesias{
+    width: 110%;
+    margin: 0 auto;
+    margin-left: -5%;
+}
+/* FIM - CORTESIAS */
+
+
+/* ROW - LOGOS FACEBOOK/INSTAGRAM */
+#img-logo-facebook, #img-logo-instagram{
+    width: 46%;
+    margin-right: 4%;
+}
+
+.logos-facebook-instagram{
+    margin: 0 auto;
+    margin-top: 6%;
+    width: 25%;
+}
+    
+
+/* NEXX CLUB */
+.row-nexx-club{
+    display: inline-flex;
+    margin: 9% 8% 29%;
+}
+
+#img-nexx-club{
+    margin-top: -9%;
+}
+
+#p-nexx-club{
+    font-size: 1.6rem;
+    font-family: lato, bold;
+    color: black;
+    text-align: center;
+}
+/* FIM - NEXX CLUB */
+
+
+.row-mapa{
+    display: none;
+}
+
+}
+
+@media screen and (min-width: 320px) and (max-width:425px){
+/* CORTESIAS */
+.cortesias{
+    width: 85%;
+    position: relative;
+    margin-top: 10%;
+    margin-left: 8%;
+}
+
+.h3-cortesias{
+    font-size: 3.5rem;
+    font-family: lato, bold;
+    color: black;
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+.paragrafo-cortesias{
+    display: none;
+}
+
+.h4-cafe-da-manha{
+    color: black;
+    font-size: 2.5rem;
+    font-family: lato, bold;
+    text-align: center;
+    margin: 1%;
+}
+
+.p-cortesia{
+    font-size: 1.7rem;
+    font-family: lato, bold;
+    color: #d9241b;
+    text-align: center;
+}
+
+.p-cafe-da-manha{
+    font-size: 1.4rem;
+    font-family: lato, bold;
+    color: black;
+    text-align: center
+}
+
+.bloco-cafe-da-manha{
+    width: 100%;
+    background-color: #e7e9ea;
+    padding: 9% 11%;
+    margin-bottom: 6%;
+}
+
+.row-cortesias{
+    width: 122%;
+    margin: 0 auto;
+    margin-left: -12%;
+}
+/* FIM - CORTESIAS */
+
+
+/* ROW - LOGOS FACEBOOK/INSTAGRAM */
+#img-logo-facebook, #img-logo-instagram{
+    width: 46%;
+    margin-right: 4%;
+}
+
+.logos-facebook-instagram{
+    margin: 0 auto;
+    margin-top: 6%;
+}
+/* FIM - LOGOS FACEBOOK/INSTAGRAM */
+
+
+/* NEXX CLUB */
+.row-nexx-club{
+    display: inline-flex;
+    margin: 14% 3% 20%;
+}
+
+#img-nexx-club{
+    margin-top: -9%;
+}
+
+#p-nexx-club{
+    font-size: 1.2rem;
+    font-family: lato, bold;
+    color: black;
+    text-align: center;
+}
+/* FIM - NEXX CLUB */
+
+.row-mapa{
+display: none;
+}
+}
+
+@media screen and (min-width: 50px) and (max-width:320px){
+/* CORTESIAS */
+.cortesias{
+    width: 85%;
+    position: relative;
+    margin-top: 10%;
+    margin-left: 8%;
+}
+
+.h3-cortesias{
+    font-size: 3.5rem;
+    font-family: lato, bold;
+    color: black;
+}
+
+.paragrafo-cortesias{
+    display: none;
+}
+
+.h4-cafe-da-manha{
+    color: black;
+    font-size: 2.5rem;
+    font-family: lato, bold;
+    text-align: center;
+    margin: 1%;
+}
+
+.p-cortesia{
+    font-size: 1.7rem;
+    font-family: lato, bold;
+    color: #d9241b;
+    text-align: center;
+}
+
+.p-cafe-da-manha{
+    font-size: 1.4rem;
+    font-family: lato, bold;
+    color: black;
+    text-align: center
+}
+
+.bloco-cafe-da-manha{
+    width: 100%;
+    background-color: #e7e9ea;
+    padding: 9% 11%;
+    margin-bottom: 6%;
+}
+
+.row-cortesias{
+    width: 122%;
+    margin: 0 auto;
+    margin-left: -12%;
+}
+/* FIM - CORTESIAS */
+
+
+/* ROW - LOGOS FACEBOOK/INSTAGRAM */
+#img-logo-facebook, #img-logo-instagram{
+    width:10%;
+    margin-right: 4%;
+}
+
+.logos-facebook-instagram{
+    margin: 10% -10%;
+}
+/* FIM - LOGOS FACEBOOK/INSTAGRAM */
+
+
+/* NEXX CLUB */
+.row-nexx-club{
+    display: inline-flex;
+    margin: 2% 7% 28%;
+}
+
+#img-nexx-club{
+    margin-top: -9%;
+}
+
+#p-nexx-club{
+    font-size: 1.3rem;
+    font-family: lato, bold;
+    color: black;
+    text-align: center;
+}
+/* FIM - NEXX CLUB */
+
+
+
+.row-mapa{
+display: none;
+}
+}

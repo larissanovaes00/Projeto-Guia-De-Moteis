@@ -1,0 +1,263 @@
+@media screen and (min-width: 1201px) and (max-width: 1600px){
+    #blocos{
+        background-color: #323232;
+        margin-bottom: 21%;
+    }
+    
+    .blocos-menores{
+        padding: 9% 22%;
+    }
+    
+    #img-bloco1{
+        padding: 26% 29%;
+    }
+    
+    #img-bloco2{
+        padding: 7% 15%;
+    }
+    
+    #img-bloco3{
+        padding: 1% 18%;
+        }
+    
+    .texto-blocos{
+        color: white;
+        font-family: lato, bold;
+        text-align: center;
+    }
+    
+    #div-conjunto-blocos{
+        margin: -34% 42%;
+    }
+    
+    div#div-conjunto-blocos{
+        width: 10%;
+        position: absolute;
+    }
+}
+
+@media screen and (min-width: 1025px) and (max-width:1200px){  
+    #blocos{
+        background-color: #323232;
+        width: 55%;
+        margin-bottom: 4%;
+    }
+    
+    .blocos-menores{
+        padding: 9% 22%;
+    }
+    
+    #img-bloco1{
+        padding: 26% 29%;
+    }
+    
+    #img-bloco2{
+        padding: 7% 15%;
+    }
+    
+    #img-bloco3{
+        padding: 1% 18%;
+    }
+    
+    .texto-blocos{
+        color: white;
+        font-family: lato, bold;
+        text-align: center;
+    }
+    
+    #div-conjunto-blocos{
+        margin: 1% 43%;
+    }
+    
+    div#div-conjunto-blocos{
+        width: 20%;
+        position: absolute;
+    }
+}
+
+@media screen and (min-width: 769px) and (max-width:1024px){
+    #blocos{
+        background-color: #323232;
+        width: 100%;
+        float: right;
+        margin-right: 1%;
+    }
+
+    .blocos-menores{
+        padding: 9% 22%;
+    }
+
+    #img-bloco1{
+        padding: 22% 31%;
+        width:100%;
+    }
+
+    #img-bloco2{
+        padding: 14% 11%;
+        width: 100%;
+    }
+
+    #img-bloco3{
+        padding: 9% 14%;
+        width: 100%;
+    }
+
+    .texto-blocos{
+        color: white;
+        font-family: lato, bold;
+        text-align: center;
+        font-size: 1.7rem;
+    }
+
+    #div-conjunto-blocos{
+        margin: 53% -79%;
+    }
+
+    div#div-conjunto-blocos{
+        width: 60%;
+        position: absolute;
+        display: inline-flex;
+    }
+}
+
+@media screen and (min-width: 426px) and (max-width:768px){
+    #blocos{
+        background-color: #323232;
+        margin-right: 5%;
+        width: 29%;
+        font-size: 1.2rem;
+    
+    }
+    
+    .blocos-menores{
+        padding: 9% 22%;
+    }
+    
+    #img-bloco1{
+    width: 51%;
+    margin: 22% 0 0 23%;
+    
+    }
+    
+    #img-bloco2{
+        padding: 13% 10%;
+        width:100%;
+    }
+    
+    #img-bloco3{
+        width:110%;
+        padding: 11% 17%;
+    }
+    
+    .texto-blocos{
+        color: white;
+        font-family: lato, bold;
+        text-align: center;
+        font-size: 2rem;
+    }
+    
+    #div-conjunto-blocos{
+        margin-top: -18%;
+        width: 100%;
+        margin-left: 1%; 
+    }
+    
+    div#div-conjunto-blocos{
+        display: inline-flex;
+        position: absolute;
+    }
+}
+
+@media screen and (min-width: 320px) and (max-width:425px){
+    
+    #blocos{
+        background-color: #323232;
+        margin-right: 5%;
+        width: 29%;
+        font-size: 1.2rem;
+    }
+    
+    .blocos-menores{
+        padding: 9% 22%;
+    }
+    
+    #img-bloco1{
+        padding: 25% 14%;
+        width: 74%;
+    }
+    
+    #img-bloco2{
+        padding: 13% 10%;
+        width:100%;
+    }
+    
+    #img-bloco3{
+        width:110%;
+        padding: 11% 17%;
+    
+    }
+    
+    .texto-blocos{
+        color: white;
+        font-family: lato, bold;
+        text-align: center;
+        font-size: 1rem;
+    }
+    
+    #div-conjunto-blocos{
+        margin-top: -20%;
+        width: 104%;
+        margin-left: -6%; 
+    }
+    
+    div#div-conjunto-blocos{
+        display: inline-flex;
+        position: absolute;
+    }
+}
+
+@media screen and (min-width: 50px) and (max-width:320px){   
+    #blocos{
+        background-color: #323232;
+        margin-right: 5%;
+        width: 29%;
+        font-size: 1.2rem;
+    }
+    
+    .blocos-menores{
+        padding: 9% 22%;
+    }
+    
+    #img-bloco1{
+        margin: 30% 5% 5% 22%;
+        width: 54%;
+    }
+    
+    #img-bloco2{
+        padding: 13% 10%;
+        width:100%;
+    }
+    
+    #img-bloco3{
+        width:110%;
+        padding: 11% 17%;
+    }
+    
+    .texto-blocos{
+        color: white;
+        font-family: lato, bold;
+        text-align: center;
+        font-size: 1rem;
+    }
+    
+    #div-conjunto-blocos{
+        margin-top: -20%;
+        width: 103%;
+        margin-left: -5%; 
+    }
+    
+    div#div-conjunto-blocos{
+        display: inline-flex;
+        position: absolute;
+    }
+}

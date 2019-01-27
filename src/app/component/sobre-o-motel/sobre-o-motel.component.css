@@ -1,0 +1,280 @@
+@media screen and (min-width: 1201px) and (max-width: 1600px){
+/* SOBRE O MOTEL */
+
+#sobre-motel{
+    margin: 0 auto;
+    width: 67%;
+}
+
+#descricao-motel{
+    font-size: 1.4rem;
+    font-family: lato, medium;
+    color: white;
+    width: 103%;
+}
+
+#h3-suites{
+    color: white;
+    margin-bottom: 3%;
+    font-size: 2.5rem;
+    font-family: lato, bold;
+}
+
+.col-sobre-o-motel{
+    padding-left: 10%;
+    margin-top: 5%;
+}
+
+.cortesias{
+    width: 85%;
+    position: relative;
+}
+/* FIM - SOBRE O MOTEL */
+
+}
+
+@media screen and (min-width: 1025px) and (max-width:1200px){
+/* SOBRE O MOTEL */
+
+#sobre-motel{
+    margin: 0 auto;
+    width: 67%;
+}
+
+#descricao-motel{
+    font-size: 1.4rem;
+    font-family: lato, medium;
+    color: white;
+    width: 103%;
+}
+
+#h3-suites{
+    color: white;
+    margin-bottom: 3%;
+    font-size: 2.5rem;
+    font-family: lato, bold;
+}
+
+.col-sobre-o-motel{
+
+}
+
+.cortesias{
+    margin: 1% 11%;
+    width: 85%;
+    position: relative;
+}
+
+.botao-ver-mais-black{
+    display: none;
+}
+
+.logos-facebook-instagram{
+    display: none;
+}
+
+
+/* FIM - SOBRE O MOTEL */
+}
+
+@media screen and (min-width: 769px) and (max-width:1024px){
+/* SOBRE O MOTEL */
+
+#sobre-motel{
+    text-align: center;
+    margin: 9% 12% 20% 0%;
+}
+
+.col-md-6 {
+    width: 100%;
+}
+
+#descricao-motel{
+    font-size: 1.7rem;
+    font-family: lato, medium;
+    color: white;
+    width: 103%;
+}
+
+#h3-suites{
+    color: white;
+    margin-bottom: 3%;
+    font-size: 2.5rem;
+    font-family: lato, bold;
+}
+
+.col-sobre-o-motel{
+    padding-left: 10%;
+    margin-top: 5%;
+}
+
+.cortesias{
+    width: 82%;
+    position: relative;
+}
+/* FIM - SOBRE O MOTEL */
+}
+
+@media screen and (min-width: 426px) and (max-width:768px){
+/* SOBRE O MOTEL */
+#sobre-motel{
+    text-align: center;
+    margin: 8% 5% 38%;
+}
+
+#descricao-motel{
+    font-size: 1.7rem;
+    color: white;
+    width: 124%;
+    margin: 9% -12% 9%;
+}
+
+#h3-suites{
+    color: white;
+    margin-bottom: 3%;
+    font-size: 2.5rem;
+    font-family: lato, bold;
+}
+
+.col-sobre-o-motel{
+    padding-left: 4%;
+    margin-top: 5%;
+}
+/* FIM - SOBRE O MOTEL */
+}
+
+@media screen and (min-width: 320px) and (max-width:425px){
+/* SOBRE O MOTEL */
+#hr {
+    display: inline-flex;
+    background-color: white;
+    width: 20%;
+    height: 3px;
+    border: none;
+    margin: auto;
+    position: relative;
+}
+
+#sobre-motel{
+    text-align: center;
+}
+
+#descricao-motel{
+    font-size: 1.3rem;
+    color: white;
+    width: 124%;
+    margin: 9% -12% 9%;
+}
+
+#h3-suites{
+    color: white;
+    margin-bottom: 3%;
+    font-size: 2.5rem;
+    font-family: lato, bold;
+}
+
+.col-sobre-o-motel{
+    padding-left: 4%;
+    margin-top: 5%;
+    margin-bottom: 34%;
+}
+
+/* FIM - SOBRE O MOTEL */
+}
+
+@media screen and (min-width: 50px) and (max-width:320px){
+/* SOBRE O MOTEL */
+#hr {
+    display: inline-flex;
+    background-color: white;
+    width: 20%;
+    height: 3px;
+    border: none;
+    margin: auto;
+    position: relative;
+}
+
+#sobre-motel{
+    text-align: center;
+    margin: 8% 5% 38%;
+}
+
+#descricao-motel{
+    font-size: 1.3rem;
+    color: white;
+    width: 124%;
+    margin: 9% -12% 9%;
+}
+
+#h3-suites{
+    color: white;
+    margin-bottom: 3%;
+    font-size: 2.5rem;
+    font-family: lato, bold;
+}
+
+.col-sobre-o-motel{
+    padding-left: 4%;
+    margin-top: 5%;
+}
+
+.img-fachada{
+    display: none;
+}
+
+.img-fachada-menor{
+    width:100%;
+}
+
+.img-fachada-desktop{
+    display: none;
+}
+
+#blocos{
+    background-color: #323232;
+    margin-right: 5%;
+    width: 29%;
+    font-size: 1.2rem;
+
+}
+
+.blocos-menores{
+    padding: 9% 22%;
+}
+
+#img-bloco1{
+    padding: 25% 14%;
+    width: 74%;
+}
+
+#img-bloco2{
+    padding: 13% 10%;
+    width:100%;
+}
+
+#img-bloco3{
+    width:110%;
+    padding: 11% 17%;
+
+}
+
+.texto-blocos{
+    color: white;
+    font-family: lato, bold;
+    text-align: center;
+    font-size: 1rem;
+}
+
+#div-conjunto-blocos{
+    margin-top: -20%;
+    width: 113%;
+    margin-left: -54%;  
+}
+
+div#div-conjunto-blocos{
+    display: inline-flex;
+    position: absolute;
+}
+/* FIM - SOBRE O MOTEL */
+
+}
